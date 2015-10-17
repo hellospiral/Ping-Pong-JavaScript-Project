@@ -12,7 +12,7 @@
 
 ### GitHub Pages URL:
 
-[http://hellospiral.github.io/](http://hellospiral.github.io/)
+[http://hellospiral.github.io/ping_pong](http://hellospiral.github.io/ping_pong)
 
 ###Legal
 
