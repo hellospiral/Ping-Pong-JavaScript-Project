@@ -1,6 +1,6 @@
-#Favorite Things List
+#Ping Pong Test
 
-##### This app asks the user some questions about their favorite things and lists them back!
+##### This simple program returns numbers, 'ping', or 'pong' depending on user input.
 
 ### By Matt Carlson
 
@@ -12,7 +12,7 @@
 
 ### GitHub Pages URL:
 
-[http://hellospiral.github.io/favorite_things_list](http://hellospiral.github.io/favorite_things_list)
+[http://hellospiral.github.io/](http://hellospiral.github.io/)
 
 ###Legal
 
