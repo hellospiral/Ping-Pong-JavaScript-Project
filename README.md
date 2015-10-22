@@ -1,6 +1,6 @@
 #Ping Pong Test
 
-##### This simple program returns numbers, 'ping', or 'pong' depending on user input.
+##### This simple program returns numbers, 'ping', 'pong', or 'pingpong' depending on user input.
 
 ### By Matt Carlson
 
