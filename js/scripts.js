@@ -4,10 +4,10 @@ $(document).ready(function() {
     if ( x % 3 && x % 5 ) {
        $("p").append(x);
     } else {
-      if (x % 3 == 0) {
+      if (x % 3 === 0) {
         $("p").append("ping");
       }
-      if ( x % 5 == 0) {
+      if ( x % 5 === 0) {
         $("p").append("pong");
       }
     }
