@@ -1,6 +1,6 @@
 #Ping Pong Test
 
-##### This simple program returns numbers, 'ping', 'pong', or 'pingpong' depending on user input.
+##### The problem was to write a program that prints the numbers from 1 to 100. But for multiples of three print “ping” instead of the number and for the multiples of five print “pong”. For numbers which are multiples of both three and five print “pingpong”."
 
 ### By Matt Carlson
 
@@ -12,7 +12,7 @@
 
 ### GitHub Pages URL:
 
-[http://hellospiral.github.io/ping_pong](http://hellospiral.github.io/ping_pong)
+[http://hellospiral.github.io/Ping-Pong-JavaScript-Project/](http://hellospiral.github.io/Ping-Pong-JavaScript-Project/)
 
 ###Legal
 
