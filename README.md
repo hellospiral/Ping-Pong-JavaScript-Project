@@ -4,8 +4,6 @@
 
 ### By Matt Carlson
 
-## This webpage has an index.html, a css folder with a stylesheet, and Bootstrap, a js folder with JavaScript and a scripts.js file, and a README.
-
 ## Setup
 
 * Clone the repository and have at it!
